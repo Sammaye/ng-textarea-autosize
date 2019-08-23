@@ -1,0 +1,16 @@
+{
+  "name": "ng-textarea-autosize",
+  "version": "1.0.0",
+  "description": "Autosize textareas",
+  "keywords": ["angular", "autosize", "textarea"],
+  "homepage": "https://github.com/Sammaye/ng-textarea-autosize",
+  "author": {
+    "name": "Sammaye",
+    "email": "public@sammaye.com",
+    "url": "https://sammaye.com"
+  },
+  "peerDependencies": {
+    "@angular/common": "^8.1.1",
+    "@angular/core": "^8.1.1"
+  }
+}
